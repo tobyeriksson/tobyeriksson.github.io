@@ -1,4 +1,4 @@
-**Integritetspolicy för MatAppen**
+## Integritetspolicy för MatAppen ##
 
 Senast uppdaterad: 2024-10-09
 
